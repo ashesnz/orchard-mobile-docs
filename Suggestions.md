@@ -5,6 +5,7 @@
   * Currently sitting on version React Native version (`0.61.5`) Can be upgraded to (`0.70`) https://reactnative.dev/blog/2022/09/05/version-070
   * Last version upgrade release date - [`Nov 24, 2019`](https://github.com/facebook/react-native/releases/tag/v0.61.5)
   * Using React Native update helper (https://react-native-community.github.io/upgrade-helper/?from=0.61.5&to=0.71.0-rc.3)
+* Consistent Typescript Support
 * Verify your app is working as expected on a device (or a simulator/emulator) from the user perspective (Consider using https://github.com/wix/detox/, https://blog.logrocket.com/react-native-end-to-end-testing-detox/)
 * A fairly **consistent 60 FPS** across the supported devices
 
