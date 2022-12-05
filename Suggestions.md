@@ -22,6 +22,7 @@
 - [Node.js](https://nodejs.org/en/download/)
 - [Watchman](https://facebook.github.io/watchman/docs/install.html)
 - [Yarn](https://yarnpkg.com/en/docs/install)
+- [JDK (Java development kit)](https://www.oracle.com/java/technologies/downloads/)
 - [Android Studio](https://developer.android.com/studio?gclid=CjwKCAiAp7GcBhA0EiwA9U0mtrwIcZt277HkrNFiVD7b3QJr6FPulIaiiU6ZUb1TnHrONzsTgiQpwhoCp3EQAvD_BwE&gclsrc=aw.ds)
 - React Native CLI - Use `$ yarn global add react-native-cli` to install the CLI.
 
