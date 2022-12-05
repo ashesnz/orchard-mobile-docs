@@ -11,7 +11,7 @@
 
 
 
-# Documentation
+# Documentation (Amend README.md)
 
 ### Supported Android/iOS devices
 
