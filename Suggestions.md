@@ -30,9 +30,16 @@ More information on getting started can be found [here](https://reactnative.dev/
 
 #### Setup Issues  
 
+Ensure you have `local.properties` file under your android folder
+```
+sdk.dir=/Users/ashwin/Library/Android/sdk
+```
+
 Q. I'm unable to connect to my device physically when running application is built?
 
 A. Running ``adb reverse tcp:8081 tcp:8081`` [seems to do the trick](https://github.com/facebook/react-native/issues/8309)
+
+
 
 # DX (Developer) Improvements
 * https://github.com/infinitered/reactotron
